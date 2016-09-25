@@ -5,6 +5,7 @@ Indicates all the variables and summaries calculated, along with units.
 2. activity     : Type of activity performed when the measurement is taken. Includes a) Walking b) Walking upstairs c) Walking downstairs d) Sitting e) Standing f) Laying
 
 **Measurements**
+
 "tBodyAccMeanX"                
 "tBodyAccMeanY"               
 "tBodyAccMeanZ"                
