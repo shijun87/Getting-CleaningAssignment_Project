@@ -1,6 +1,7 @@
 Indicates all the variables and summaries calculated, along with units.
 
 **Variables in tidydataset.txt**
+
 1. subject      : ID for group of 30 volunteers within an age bracket of 19-48 years
 2. activity     : Type of activity performed when the measurement is taken. Includes a) Walking b) Walking upstairs c) Walking downstairs d) Sitting e) Standing f) Laying
 
