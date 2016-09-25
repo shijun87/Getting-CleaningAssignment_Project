@@ -2,6 +2,7 @@
 Getting and Cleaning Data Course Project
 
 Contains the following documents:
+
 1. README.md            : Information on the documents available 
 2. Codebook.md          : Indicates all the variables and summaries calculated, along with units, and any other relevant information.
 3. run_analysis.R       : that does the following
